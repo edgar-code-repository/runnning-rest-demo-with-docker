@@ -3,5 +3,6 @@ REST DEMO WITH DOCKER
 
 Work in progress...
 
+http://localhost:8802/h2-console
 
 ----------------------------------------------------------------------------
