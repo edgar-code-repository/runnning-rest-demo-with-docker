@@ -1,6 +1,6 @@
 package com.example.demo.component;
 
-import com.example.demo.CountryService;
+import com.example.demo.service.CountryService;
 import com.example.demo.model.Country;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
